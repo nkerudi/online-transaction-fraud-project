@@ -70,7 +70,8 @@ New engineered features:
 ##  Results
 
 **Random Forest Results:**
-- Confusion Matrix:  
+- Confusion Matrix:
+  ![Confusion Matrix](https://github.com/nkerudi/online-transaction-fraud-project/blob/main/Screen%20Shot%202025-03-23%20at%202.20.59%20PM.png)  
   True Positives (Fraud correctly predicted): **1,914**  
   False Negatives (Fraud missed): **521**
 
