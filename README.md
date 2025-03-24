@@ -75,9 +75,15 @@ New engineered features:
   True Positives (Fraud correctly predicted): **1,914**  
   False Negatives (Fraud missed): **521**
 
-- Overall Accuracy: (printed in console via `accuracy_score`)
+- Overall Accuracy: (printed in console via `accuracy_score`) ~ 99.9%
 
 - Strong model performance despite class imbalance
+
+**ROC Curve Results:**
+- ROC (Receiver Operating Characteristics) Curve:
+![ROC_Curve](https://github.com/nkerudi/online-transaction-fraud-project/blob/main/ROCCurve.png)
+
+- Strong model performance as seen by perfect classifier curve strength 
 
 ---
 
@@ -87,6 +93,18 @@ New engineered features:
    ```bash
    git clone https://github.com/nkerudi/online-transaction-fraud-project.git
    cd online-transaction-fraud-project
+2. Libraries Intallation:
+   `pip install pandas numpy matplotlib seaborn scikit-learn xgboost`
+3. Running the script:
+   `python3 project03-18-2025.py`
+
+---
+## License ##
+This project is open-source and available under the MIT License. 
+
+
+
+
 
 
 
