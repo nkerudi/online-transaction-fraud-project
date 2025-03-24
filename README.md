@@ -60,7 +60,7 @@ New engineered features:
   ![Feature Importance - Weight](https://raw.githubusercontent.com/nkerudi/online-transaction-fraud-project/main/weight_feature_importance_online_fraud.png)
 
 - **By Gain**  
-  ![Feature Importance - Gain](https://raw.githubusercontent.com/nkerudi/online-transaction-fraud-project/main/gain_feature_importance_online_fraud.png)
+  ![Feature Importance - Gain](https://github.com/nkerudi/online-transaction-fraud-project/blob/main/gain_feature_importance_online_fraud.png)
 
 - **By Cover**  
   ![Feature Importance - Cover](https://github.com/nkerudi/online-transaction-fraud-project/blob/main/cover_feature_importance_online_fraud.png)
