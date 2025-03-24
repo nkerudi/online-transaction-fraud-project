@@ -52,7 +52,7 @@ New engineered features:
 
 ###  Transaction Type Distribution
 
-![Transaction Types](https://raw.githubusercontent.com/nkerudi/online-transaction-fraud-project/main/Figure_6.png)
+![Transaction Types](https://github.com/nkerudi/online-transaction-fraud-project/blob/main/Figure_6.png)
 
 ###  XGBoost Feature Importances
 
