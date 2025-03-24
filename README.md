@@ -57,7 +57,7 @@ New engineered features:
 ###  XGBoost Feature Importances
 
 - **By Weight**  
-  ![Feature Importance - Weight](https://raw.githubusercontent.com/nkerudi/online-transaction-fraud-project/main/weight_feature_importance_online_fraud.png)
+  ![Feature Importance - Weight](https://github.com/nkerudi/online-transaction-fraud-project/blob/main/weight_feature_importance_online_fraud.png)
 
 - **By Gain**  
   ![Feature Importance - Gain](https://github.com/nkerudi/online-transaction-fraud-project/blob/main/gain_feature_importance_online_fraud.png)
